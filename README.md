@@ -113,7 +113,9 @@ Building on my Flutter experience with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Muthamilselvan251&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="495" alt="Muthamilselvan V GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Muthamilselvanv&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"
+     width="495"
+     alt="Muthamilselvan V GitHub contribution streak" />
 
 <details>
 <summary>🐍 View contribution animation</summary>
